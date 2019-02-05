@@ -1,0 +1,48 @@
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\bin\Debug\Negative.exe.config
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\bin\Debug\Negative.exe
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\bin\Debug\Negative.pdb
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\obj\Debug\Negative.csprojAssemblyReference.cache
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\obj\Debug\Negative.Form1.resources
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\obj\Debug\Negative.Properties.Resources.resources
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\obj\Debug\Negative.csproj.GenerateResource.cache
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\obj\Debug\Negative.csproj.CoreCompileInputs.cache
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\obj\Debug\Negative.exe
+D:\TIF\smt5\PCD\Tugas Image processing\Negative\Negative\obj\Debug\Negative.pdb
+C:\Users\User\source\repos\Negative\Negative\bin\Debug\Negative.exe.config
+C:\Users\User\source\repos\Negative\Negative\bin\Debug\Negative.exe
+C:\Users\User\source\repos\Negative\Negative\bin\Debug\Negative.pdb
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.Form1.resources
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.Properties.Resources.resources
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.exe
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.pdb
+C:\Users\User\source\repos\Negative\Negative\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.csproj.CopyComplete
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.Form3.resources
+C:\Users\admin\Desktop\Negative\Negative\bin\Debug\Negative.exe.config
+C:\Users\admin\Desktop\Negative\Negative\bin\Debug\Negative.exe
+C:\Users\admin\Desktop\Negative\Negative\bin\Debug\Negative.pdb
+C:\Users\admin\Desktop\Negative\Negative\obj\Debug\Negative.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Negative\Negative\obj\Debug\Negative.Form1.resources
+C:\Users\admin\Desktop\Negative\Negative\obj\Debug\Negative.Form3.resources
+C:\Users\admin\Desktop\Negative\Negative\obj\Debug\Negative.Properties.Resources.resources
+C:\Users\admin\Desktop\Negative\Negative\obj\Debug\Negative.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Negative\Negative\obj\Debug\Negative.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Negative\Negative\obj\Debug\Negative.exe
+C:\Users\admin\Desktop\Negative\Negative\obj\Debug\Negative.pdb
+C:\Users\admin\Desktop\Negative\Negative\obj\Debug\Negative.Form4.resources
+C:\Users\User\source\repos\Negative\Negative\obj\Debug\Negative.Form4.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\bin\Debug\Negative.exe.config
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\bin\Debug\Negative.exe
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\bin\Debug\Negative.pdb
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\obj\Debug\Negative.csprojResolveAssemblyReference.cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\obj\Debug\Negative.Form1.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\obj\Debug\Negative.Form3.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\obj\Debug\Negative.Form4.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\obj\Debug\Negative.Properties.Resources.resources
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\obj\Debug\Negative.csproj.GenerateResource.Cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\obj\Debug\Negative.csproj.CoreCompileInputs.cache
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\obj\Debug\Negative.exe
+E:\ASSIGNMENTS & LEARNING MATERIALS\_______SEMESTER 5_______\PENGOLAHAN CITRA DIGITAL\Negative\Negative\obj\Debug\Negative.pdb
